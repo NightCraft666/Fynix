@@ -1,1 +1,5 @@
-
+[
+  {"name": "Gra 1", "file": "gra1.zip"},
+  {"name": "Gra 2", "file": "gra2.zip"},
+  {"name": "Gra 3", "file": "gra3.zip"}
+]
