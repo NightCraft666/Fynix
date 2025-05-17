@@ -1,5 +1,10 @@
 [
-  {"name": "Gra 1", "file": "gra1.zip"},
-  {"name": "Gra 2", "file": "gra2.zip"},
-  {"name": "Gra 3", "file": "gra3.zip"}
+  {
+    "name": "Gra 1",
+    "url": "https://www.mediafire.com/file/abc123/gra1.zip/file"
+  },
+  {
+    "name": "Gra 2",
+    "url": "https://www.mediafire.com/file/def456/gra2.zip/file"
+  }
 ]
